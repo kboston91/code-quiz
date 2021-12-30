@@ -19,7 +19,7 @@ If your README is very long, add a table of contents to make it easy for users t
 
 ## Installation
 
-open the index.html file in a browser and press start.
+Go to this link and press start.  https://kboston91.github.io/code-quiz/
 
 ## Usage
 
@@ -33,7 +33,7 @@ MIT
 
 ## Contributing
 
-kgboston91
+Suzette Boston
 
 ## Test
 
